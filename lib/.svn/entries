@@ -1,0 +1,28 @@
+8
+
+dir
+1711
+http://66.225.219.4/svn/oyster/trunk/vendor/plugins/sliding_session_timeout/lib
+http://66.225.219.4/svn/oyster
+
+
+
+2009-04-16T03:59:12.956621Z
+1711
+preston
+
+
+svn:special svn:externals svn:needs-lock
+
+sliding_session_timeout.rb
+file
+
+
+
+
+2009-04-16T03:36:26.000000Z
+92b73f91c0833180efdba0370376d3f4
+2009-04-16T03:59:12.956621Z
+1711
+preston
+
