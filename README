@@ -1,4 +1,4 @@
-SlidingSessionTimeout
+SidingSessionTimeout
 =====================
 
 By default, sessions in Rails expire at a fixed time from the moment 
@@ -31,5 +31,5 @@ Examples:
     reset_session
   end
 
-
+http://github.com/pstuteville/sliding_session_timeout
 Original plugin:  www.elctech.com/projects/sliding-session-timeout-plugin
